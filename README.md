@@ -3,7 +3,13 @@ You can call me deverzt, or r34fzr, or anything else
 
 ![Codewars](https://www.codewars.com/users/deverzt/badges/large)
 
-### Interested in
+# Current Project
+- ML Portofolio
+- Helping my friends on his web development
+- Making Game with pygame (Game development)
+- Car with bluetooth controller (Emmbedded System)
+
+# Interested in
 
 ## Data
 
