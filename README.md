@@ -3,6 +3,13 @@ You can call me deverzt, or r34fzr, or anything else
 
 ![Codewars](https://www.codewars.com/users/deverzt/badges/large)
 
+![deverzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r34fzr&show_icons=true&theme=gruvbox)
+
+# Languange and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+
 # Current Project
 - ML Portofolio
 - Helping my friends on his web development
@@ -32,14 +39,3 @@ Learning about linux, how to do basic rice and configuration. Used HTB as usual 
 ## Game Development
 
 Currently learning Pygame, making my own asset using asperite. I could use blender on minimum. Want to learn Unity next time.
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
