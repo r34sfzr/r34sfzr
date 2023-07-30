@@ -3,12 +3,12 @@ You can call me deverzt, or r34fzr, or anything else
 
 ![Codewars](https://www.codewars.com/users/deverzt/badges/large)
 
-![deverzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=r34fzr&show_icons=true&theme=gruvbox)
+![r34fzr's GitHub stats](https://github-readme-stats.vercel.app/api?username=r34fzr&show_icons=true&theme=gruvbox)
 
 # Languange and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
+<br />
 
 # Current Project
 - ML Portofolio
